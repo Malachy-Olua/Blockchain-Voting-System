@@ -38,6 +38,9 @@ function Navbar() {
             <img src={electionLogo} alt="logo" ></img>
           </div>
           <ul className="top2">
+             <li className="list1">
+              <Link to="/"><span style={{color:"white"}}>Home</span></Link>
+            </li>
             <li className="list2">
                 <Link to="/Voting"><span style={{color:"white"}}>Voting</span></Link>
             </li>
