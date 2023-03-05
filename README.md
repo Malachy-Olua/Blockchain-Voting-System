@@ -21,12 +21,11 @@ The `search field` box is used to search for candidates with their name.
 
 
 ### Home Page
-![Screenshot (8)](https://user-images.githubusercontent.com/105208823/213943642-20226dfb-4660-4eee-843e-4e67537fb0ff.png)![Screenshot (26)](https://user-images.githubusercontent.com/105208823/222961839-bd1ddf1f-477b-441a-a452-8407e9e80787.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/105208823/222961839-bd1ddf1f-477b-441a-a452-8407e9e80787.png)
 
-After connecting a metamask wallet, click on sign In to take you to login page.
+After connecting a metamask wallet, click on Elections to take you list of elections going on.
+![Screenshot (28)](https://user-images.githubusercontent.com/105208823/222962267-18728725-3a2c-4e28-83a6-1f39d78b5730.png)
 
-### Login Page
-![Screenshot (10)](https://user-images.githubusercontent.com/105208823/213944065-edaa944a-da2a-40a4-93ab-ae756c79fa26.png)
 
 ### RegisterCandidate
 ![Screenshot (12)](https://user-images.githubusercontent.com/105208823/213944606-e3d0a40e-6806-42b8-a1f5-c73aec41ee67.png)
