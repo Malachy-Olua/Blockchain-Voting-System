@@ -32,6 +32,8 @@ Click on `Create Contestants/Election` to create your own election and its conte
 
 `Make sure to upload the picture of the contestant and fill the input fields before clicking on Authorize candidate`.
 
+`To have your contestants in thesame election, make sure to register them with same election name.`
+
 
 ## Website Link
 <https://devs-chain.netlify.app//>
