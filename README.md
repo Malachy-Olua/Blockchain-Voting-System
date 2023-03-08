@@ -29,6 +29,7 @@ After connecting a metamask wallet, click on Elections to take you list of elect
 
 ### RegisterCandidate
 Click on `Create Contestants/Election` to create your own election and its contestants.
+
 #####How to `Create Contestants/Election`.
 
 
