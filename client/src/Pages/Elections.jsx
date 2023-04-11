@@ -62,40 +62,40 @@ const Section = styled.section`
         height:420px;
         background:#1c1c1c;
         border-radius:8px;
-        overflow:hidden;
+
     }
-    .box::before{
-        content:"";
-        position:absolute;
-        top:-50%;
-        left:-50%;
-        width: 380px;
-        height: 420px;
-        background: linear-gradient(0deg, transparent, #45f3ff, #45f3ff);
-        transform-origin:bottom right;
-        animation: animate 6s linear infinite;
-    }
-    .box::after{
-        content:"";
-        position:absolute;
-        top:-50%;
-        left:-50%;
-        width: 380px;
-        height: 420px;
-        background: linear-gradient(0deg, transparent, #45f3ff, #45f3ff);
-        transform-origin:bottom right;
-        animation: animate 6s linear infinite;
-        animation-delay: -3s;
-    }
+    // .box::before{
+    //     content:"";
+    //     position:absolute;
+    //     top:-50%;
+    //     left:-50%;
+    //     width: 380px;
+    //     height: 420px;
+    //     background: linear-gradient(0deg, transparent, #45f3ff, #45f3ff);
+    //     transform-origin:bottom right;
+    //     animation: animate 6s linear infinite;
+    // }
+    // .box::after{
+    //     content:"";
+    //     position:absolute;
+    //     top:-50%;
+    //     left:-50%;
+    //     width: 380px;
+    //     height: 420px;
+    //     // background: linear-gradient(0deg, transparent, #45f3ff, #45f3ff);
+    //     // transform-origin:bottom right;
+    //     // animation: animate 6s linear infinite;
+    //     // animation-delay: -3s;
+    // }
     
-    @keyframes animate{
-        0%{
-            transform:rotate(0deg);
-        }
-        100%{
-            transform:rotate(360deg);
-        }
-    }
+    // @keyframes animate{
+    //     0%{
+    //         transform:rotate(0deg);
+    //     }
+    //     100%{
+    //         transform:rotate(360deg);
+    //     }
+    // }
 
     .form{
         position:absolute;
@@ -106,6 +106,8 @@ const Section = styled.section`
         padding: 50px 40px;
         display:flex;
         flex-direction: column;
+        overflow-y:auto;
+        overflow-x:hidden;
         h2{
             color:#45f3ff;
             font-weight:500;
