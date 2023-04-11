@@ -47,10 +47,10 @@ const Home = () => {
         <h1>A Blockchain Electronic <br/> Voting Application</h1>
         <p>Secure, transparent voting for a fair and democratic <br/>
         prcess. The future of voting is here!</p>
-        {auth?(""):(
-          <button onClick={()=>{navigate("/Elections")}}>
+        {auth?(""):
+          currentAccount?<button onClick={()=>{navigate("/Elections")}}>
             Elections
-          </button>)}
+          </button>:("")}
         <h4>Powered by Blockchain & CHAINDEVs</h4>
       </div>
     </Section>
