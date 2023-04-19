@@ -19,7 +19,6 @@ The `search field` box is used to search for candidates with their name.
 - Solidity
 - Alchemy
 
-
 ### Home Page
 ![Screenshot (26)](https://user-images.githubusercontent.com/105208823/222961839-bd1ddf1f-477b-441a-a452-8407e9e80787.png)
 
