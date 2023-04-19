@@ -39,11 +39,9 @@ Click on `Create Contestants/Election` to create your own election and its conte
 <https://devs-chain.netlify.app//>
 
 
-## Authors/team members
+## Contributors
 - Malachy Olua Chiagozie
 - Echela Christopher Moses
-- Daniel Ojo
-- Ekene Marvellous Onubuike
 
 ## How to Install and Run the Project
 - First install Node JS from https://nodejs.org
