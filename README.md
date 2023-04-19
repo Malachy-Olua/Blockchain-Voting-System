@@ -39,7 +39,6 @@ Click on `Create Contestants/Election` to create your own election and its conte
 
 
 ## Contributors
-- Malachy Olua Chiagozie
 - Echela Christopher Moses
 
 ## How to Install and Run the Project
