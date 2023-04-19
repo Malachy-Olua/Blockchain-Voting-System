@@ -41,6 +41,7 @@ Click on `Create Contestants/Election` to create your own election and its conte
 ## Contributors
 - Echela Christopher Moses
 
+
 ## How to Install and Run the Project
 - First install Node JS from https://nodejs.org
 - Install metamask and add it as an extension in your browser
