@@ -40,6 +40,7 @@ Click on `Create Contestants/Election` to create your own election and its conte
 
 ## Contributors
 - Echela Christopher Moses
+- Ekene Marvelous Onubuike
 
 
 ## How to Install and Run the Project
